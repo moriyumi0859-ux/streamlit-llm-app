@@ -1,0 +1,12 @@
+# Python venv
+.venv/
+env/
+
+# Pythonキャッシュ
+__pycache__/
+
+# 環境変数
+.env
+
+# macOS
+.DS_Store
